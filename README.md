@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Elsawy</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 
-<h3 align="center">Motivated, highly skilled software engineer with one year of experience in Mobile Application development using flutter, talent for quick learning Seeking for full-time job or internship</h3>
+<h3 align="center">Motivated, highly skilled software engineer with more than  year of real experience in Mobile Application development using flutter, talent for quick learning Seeking for full-time job remotly or onsite</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelsawy&label=Profile%20views&color=0e75b6&style=flat" alt="tarekelsawy" /> </p>
@@ -13,15 +13,16 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Movie App](https://github.com/tarekelsawy/Movie-App)
+- 🔭 I’m currently working on [Age Language Company](https://alcegypt.net/)
 
 - 🌱 I’m currently learning **Clean Architecture with flutter and more ...**
+- <img align="right" src="[https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif](https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw)" width = 20px height = 20px/>
 
 - 👯 I’m looking to collaborate on **Intern or Job opportunity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarekelsawy?tab=repositories](https://github.com/tarekelsawy?tab=repositories)
 
-- 💬 Ask me about **Flutter , Dart , OOP , C++(STL-OOP) , Java , clean Architecture**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **tarekelsawy2982000@gmail.com**
 
