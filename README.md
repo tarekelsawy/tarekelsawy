@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Age Language Company](https://alcegypt.net/)
 
 - 🌱 I’m currently learning **Clean Architecture with flutter and more ...**
-- <img align="right" src="[https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif](https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw)" width = 30px height = 30px/>
+- <img align="right" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/>
 
 - 👯 I’m looking to collaborate on **Intern or Job opportunity**
 
