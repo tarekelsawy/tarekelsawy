@@ -110,6 +110,15 @@
       </ol>
     </ol>
   </div>
+  <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box; ">
+    <h3>Web</h3>
+    <ol dir="ltr">
+      <li >  <a href="https://flip.e-booklet.net"><img title="Flipping Book"  src="https://flip.e-booklet.net/images/cover.jpg" width = 30px height = 30px/>Flipping Book</a> </li>
+      <ol>
+        <li>My role is build pages functionality</li>
+      </ol>
+    </ol>
+  </div>
 </div>
 
 
