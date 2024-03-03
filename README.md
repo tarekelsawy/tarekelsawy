@@ -36,9 +36,21 @@
     <ol>
       <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skills"  src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/>My Thinking Skills</a> </li>
       <ol>
-        <li>My role is building 80% of this project and publish it</li>
+        <li>My role is building 80% of this project.</li>
+        <li>publish it.</li>
+        <li>contains activities and games for learning children </li>
+        <li>record all children answers localy for parents or teachers to review </li>
+        <li>contains in app purchase for making all content avaliable </li>
+        <li>download purchased data from aws s3 servers </li>
       </ol>
-      <li>Line 2</li>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.getup"><img title="إنهض بذاتك"  src="https://play-lh.googleusercontent.com/zDqQo89LdTE9_5XIW2BRGr1son9LJvdzfrVWIHvWI_AKpuVkeNbszuYqFLnqhdEsx_E=w240-h480-rw" width = 30px height = 30px/>كتاب إنهض بذاتك </a> </li>
+      <ol>
+        <li>My role is building 40% of this project.</li>
+        <li>publish it.</li>
+        <li>you can read and listen to content of the book</li>
+        <li>contains in app purchase for making all content avaliable </li>
+        <li>download purchased data from aws s3 servers </li>
+      </ol>
       <li>Line 3</li>
       <li>Line 3</li>
       <li>Line 3</li>
