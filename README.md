@@ -34,8 +34,14 @@
   <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box;">
     <h3>Google play Apps (Android)</h3>
     <ol>
-      <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skills"  src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 25px height = 25px/>My Thinking Skills</a> </li>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skills"  src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/>My Thinking Skills</a> </li>
+      <ol>
+        <li>My role is building 80% of this project and publish it</li>
+      </ol>
       <li>Line 2</li>
+      <li>Line 3</li>
+      <li>Line 3</li>
+      <li>Line 3</li>
       <li>Line 3</li>
     </ol>
   </div>
