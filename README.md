@@ -83,8 +83,8 @@
   </div>
   <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box; ">
     <h3>App Store Apps (IOS)</h3>
-    <ol>
-      <li align="left">  <a href="https://apps.apple.com/us/app/%D9%87%D9%8A%D8%A7-%D9%86%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%A1/id6476523609?platform=iphone"><img title="هيا نتعلم العربية 1"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/05/5f/db055fca-ac3f-5f2b-81db-444a1f8c292e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/>هيا نتعلم العربية 1</a> </li>
+    <ol align="left">
+      <li >  <a href="https://apps.apple.com/us/app/%D9%87%D9%8A%D8%A7-%D9%86%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%A1/id6476523609?platform=iphone"><img title="هيا نتعلم العربية 1"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/05/5f/db055fca-ac3f-5f2b-81db-444a1f8c292e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/>هيا نتعلم العربية 1</a> </li>
       <ol>
         <li>My role is 100% I build it from from scratch to publishing</li>
         <li>this is a book app for children to learn Arabic by many activities and games</li>
