@@ -51,6 +51,34 @@
         <li>contains in app purchase for making all content avaliable </li>
         <li>download purchased data from aws s3 servers </li>
       </ol>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.miskarabic.MiSK1"><img title="Misk"  src="https://play-lh.googleusercontent.com/ffR-5dxLHfI5ryzVLJltOSv21HjeEHPAdCokHNgVHM0_S1Xp5G55UkBDgDx2jej_VA=w240-h480-rw" width = 30px height = 30px/> Misk </a> </li>
+      <ol>
+        <li>My role is updating app to support null safety, build activities from scratch and fix some bugs </li>
+      </ol>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alc.bright_stars"><img title="Misk"  src="https://play-lh.googleusercontent.com/8W0o13GMVkMmB6Xa3JFA7R-w-BgzdQRkv58UuKAV3uMQtqNX3Uh8V33YGUZu8qAmgCY=w240-h480-rw" width = 30px height = 30px/> هيا نتعلم العربية 1 </a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn arabic by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alc.bright_stars2"><img title="هيا نتعلم العربية 2"  src="https://play-lh.googleusercontent.com/KRH50ir_BpaMTNiwtjDMI2ftkepi-VS0PedJDpYKb_Y7Xcw-_93HCFV0PxnRvOcwI3o=w240-h480-rw" width = 30px height = 30px/> هيا نتعلم العربية 2 </a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn arabic by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.bs_islamic_1"><img title="معا نتعلم الإسلامية 1"  src="https://play-lh.googleusercontent.com/1fYSCyA9seuAWWQTM-nVNEgWAKHPQx_9dDQHA90f07rK4lZPb-OQtJraIjxQS69a0NA=w240-h480-rw" width = 30px height = 30px/> معا نتعلم الإسلامية 1 </a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Islamic education by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://play.google.com/store/apps/details?id=com.alcegypt.bs_islamic_2"><img title="معا نتعلم الإسلامية 2"  src="https://play-lh.googleusercontent.com/L5ndett7RkshidJHMzbF92AkAeJ9-GWNIg9mVrXvcpHWyb3BhtMXTEfPNPLllfiEdQWC=w240-h480-rw" width = 30px height = 30px/> معا نتعلم الإسلامية 2 </a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Islamic education by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
       <li>Line 3</li>
       <li>Line 3</li>
       <li>Line 3</li>
