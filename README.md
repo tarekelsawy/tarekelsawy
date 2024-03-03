@@ -15,10 +15,9 @@
 
 - 🔭 I’m currently working on [Age Language Company](https://alcegypt.net/)
 
-- 🌱 I’m currently learning **Clean Architecture with flutter and more ...**
-- <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="Name when mouse over" align="left" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a>
+- 🌱 my real experience with flutter is more than year
 
-- 👯 I’m looking to collaborate on **Intern or Job opportunity**
+- 👯 I’m looking to collaborate on **Full time Job opportunity remotly or onsite , onsite preffered**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarekelsawy?tab=repositories](https://github.com/tarekelsawy?tab=repositories)
 
@@ -28,7 +27,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PVAyamqw4QNNKBPDEF2h1TItfxILRAmA/view?usp=sharing](https://drive.google.com/file/d/1PVAyamqw4QNNKBPDEF2h1TItfxILRAmA/view?usp=sharing)
 
-- ⚡ Fun fact **learning is fun to me**
+- ⚡ check below production projects to know my skills
+<h2 align="center">** My production Apps **</h2>
+<h3 align="left">android</h3>
+<h5 align="left"> My Thinking Skills <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="Name when mouse over" align="left" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a> </h5>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
