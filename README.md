@@ -79,23 +79,38 @@
         <li>this is a book app for children to learn Islamic education by many activities and games</li>
         <li>this app contains challengable tasks , please check it to know what i mean </li>
       </ol>
-      <li>Line 3</li>
-      <li>Line 3</li>
-      <li>Line 3</li>
-      <li>Line 3</li>
     </ol>
   </div>
   <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box; ">
     <h3>App Store Apps (IOS)</h3>
     <ol>
-      <li>Line 1</li>
-      <li>Line 2</li>
-      <li>Line 3</li>
+      <li>  <a href="https://apps.apple.com/us/app/%D9%87%D9%8A%D8%A7-%D9%86%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%A1/id6476523609?platform=iphone"><img title="هيا نتعلم العربية 1"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/05/5f/db055fca-ac3f-5f2b-81db-444a1f8c292e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/>هيا نتعلم العربية 1</a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Arabic by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://apps.apple.com/us/app/%D9%87%D9%8A%D8%A7-%D9%86%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%A2/id6476694273?platform=iphone"><img title="هيا نتعلم العربية 2"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/ea/71/edea710d-497c-64ec-53a3-f0a00bc867e2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/>هيا نتعلم العربية 2</a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Arabic by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://apps.apple.com/us/app/%D9%85%D8%B9%D8%A7-%D9%86%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-1/id6478166857?platform=iphone"><img title="معا نتعلم الإسلامية 1"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/ab/7c/05ab7cba-e072-5af0-884f-6c610aac6b30/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/> معا نتعلم الإسلامية 1</a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Islamic education by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
+      <li>  <a href="https://apps.apple.com/us/app/%D9%85%D8%B9%D8%A7-%D9%86%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-2/id6478220558?platform=iphone"><img title="معا نتعلم الإسلامية 2"  src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/5a/a9/d05aa933-2aae-8dfd-ef57-f1b1ee2d8622/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width = 30px height = 30px/> معا نتعلم الإسلامية 2 </a> </li>
+      <ol>
+        <li>My role is 100% I build it from from scratch to publishing</li>
+        <li>this is a book app for children to learn Islamic education by many activities and games</li>
+        <li>this app contains challengable tasks , please check it to know what i mean </li>
+      </ol>
     </ol>
   </div>
 </div>
-<h3 align="left">Android</h3>
-<h5 align="left">1-My Thinking Skills <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skill" align="center" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a> </h5>
 
 
 
