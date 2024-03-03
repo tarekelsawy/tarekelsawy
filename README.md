@@ -31,7 +31,7 @@
 <h2 align="center">** My production Apps **</h2>
 <br>
 <div style="display: flex; width: 100%;">
-  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box;align=left;">
+  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box;">
     <h3>Container 1</h3>
     <ol>
       <li>Line 1</li>
@@ -39,7 +39,7 @@
       <li>Line 3</li>
     </ol>
   </div>
-  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box; align=right;">
+  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box; ">
     <h3>Container 2</h3>
     <ol>
       <li>Line 1</li>
