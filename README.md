@@ -31,7 +31,12 @@
 <h2 align="center">** My production Apps **</h2>
 <br>
 <h3 align="left">android</h3>
-<h5 align="left"> My Thinking Skills       <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skill" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a> </h5>
+<br>
+<br>
+<h5 align="left"> My Thinking Skills <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skill" src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a> </h5>
+<p align="left"> briefly, this is project for children </p>
+<br>
+<p align="left"> contains several activity that required heavy logic to build it, please check each one to know what i mean </p>
 
 
 <h3 align="left">Connect with me:</h3>
