@@ -31,16 +31,16 @@
 <h2 align="center">** My production Apps **</h2>
 <br>
 <div style="display: flex; width: 100%;">
-  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box;">
-    <h3>Container 1</h3>
+  <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box;">
+    <h3>Google play Apps (Android)</h3>
     <ol>
-      <li>Line 1</li>
+      <li>My Thinking Skills <a href="https://play.google.com/store/apps/details?id=com.alcegypt.maryam"><img title="My Thinking Skills"  src="https://play-lh.googleusercontent.com/qEsy3oS7KOWD-3WRnFjdMFW7xY0FcgazHPxiqYZunlY-WZIXphh4lj2NgtJR39IWLDyN=w240-h480-rw" width = 30px height = 30px/></a></li>
       <li>Line 2</li>
       <li>Line 3</li>
     </ol>
   </div>
-  <div style="flex: 1; width: 47%; padding: 20px; box-sizing: border-box; ">
-    <h3>Container 2</h3>
+  <div style="flex: 1; width: 60%; padding: 20px; box-sizing: border-box; ">
+    <h3>App Store Apps (IOS)</h3>
     <ol>
       <li>Line 1</li>
       <li>Line 2</li>
