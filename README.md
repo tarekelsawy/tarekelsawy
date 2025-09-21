@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekelsawy&label=Profile%20views&color=0e75b6&style=flat" alt="tarekelsawy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tareq_elsawy" target="blank"><img src="https://img.shields.io/twitter/follow/tareq_elsawy?logo=twitter&style=for-the-badge" alt="tareq_elsawy" /></a> </p>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" height=400px width = 150px/>
